@@ -1,0 +1,42 @@
+
+#centerDiv{
+background-color: green;
+border:5px dashed #3D74C5;
+text-shadow: 2px 2px 5px silver;
+color:white;
+}
+
+#electric{
+background-image: url(flag.png );
+font-family: eater;
+border-bottom: 12px solid silver;
+color: white;
+}
+@font-face {
+  font-family: eater;
+  src:url(eater-regular.ttf)
+}
+#flame{
+background-image: url(newyorkbackground.jpg);
+border: 5px dashed silver;
+
+}
+body{
+  font-style: oblique;
+margin:0px
+}
+a{
+  font-size: 22px;
+  font-family:ra;
+  color:red;
+  font-style: normal;
+  text-shadow: 2px 2px 5px orange;
+}
+@font-face {
+  font-family:ra;
+  src:url(FONTE.ttf);
+}
+img{
+  height: 90%;
+  width: 90%;
+}
